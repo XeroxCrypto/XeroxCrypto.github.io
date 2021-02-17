@@ -1,0 +1,26 @@
+body {
+       background-color: #36393e;
+}
+/* heading fonts*/
+h1 {
+      color: white; font-size: 25pt; font-family: verdana; font-style:italic;
+}
+h2 {
+      color: white; font-size: 20pt; font-family: vendana; font-style:italic;
+}
+h3 { color: white; font-size: 8pt; font-family: vendana; font-style:italic;
+}
+h4 {color: white; font-size: 20pt; font-family: Ubuntu Mono;
+font-style: bold;
+}
+/*paragrphy fonts*/
+p1 {  color: lightblue; font-size: 7pt; font-family: times new roman; font-style:bold;
+ 
+}
+p2 {  color: white; font-size: 14pt; font-family: liberation serif; 
+
+}
+p3 { color: white; font-size: 14pt; font-family: Ubuntu Condensed;
+}
+p4 { color: white; font-size: 14pt; font-family: Ubuntu Mono;
+}
